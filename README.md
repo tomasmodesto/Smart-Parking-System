@@ -1,7 +1,7 @@
 # Smart-Parking-System
 
 - Summary
-  - In this one, we present the idea of a car park, which consists of counting and presenting the number of available and occupied spaces as a form of information           adjacent to users.
+  - In this project, I present the idea of a car park, which consists of counting and presenting the number of available and occupied spaces as a form of information           adjacent to users.
 
 - Detailed description of the entry system
   - The entry system is performed via the left lane, when the first ultrasonic distance sensor detects an object less than 9.35 cm, it repeats a “while” cycle that aims   to open the cancellation. As the car advances on the lane, the code will come out in a cycle that allows canceling the same cart, thus not allowing the car to advance.   Still on the left, we have the second ultrasonic away device that aims to add 1 to the occupied variable and remove 1 from the variable (variables previously declared   in the code) and then display both variables on the lcd visible on the front of the park.
