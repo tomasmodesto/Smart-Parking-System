@@ -22,10 +22,23 @@
     - 100 ohm resistor
     - Jumper Wires male to male
     - Jumper Wires male to female
-    
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ - Circuits
+   - https://www.tinkercad.com/things/ippyPKlTwBo?sharecode=DjWYg1QaYwZcVM9Twx5xVdAd9pZpZXZCjswAxYzCpeM
+   
+![image](https://user-images.githubusercontent.com/88251894/188323129-8f9d7053-0f4a-43d7-b51e-c577c9fe10ca.png)
+
+
+
+
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 Code: https://github.com/tomasmodesto/Smart-Parking-System/blob/7a939ef6394e683f99f76884df3b1f6f52221e29/main.cpp
-    
+[Copy of Terrific Stantia (1).pdf](https://github.com/tomasmodesto/Smart-Parking-System/files/9485055/Copy.of.Terrific.Stantia.1.pdf)
+
+
   
 
