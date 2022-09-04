@@ -25,7 +25,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- - Circuits
+ - Circuit
    - https://www.tinkercad.com/things/ippyPKlTwBo?sharecode=DjWYg1QaYwZcVM9Twx5xVdAd9pZpZXZCjswAxYzCpeM
    
 ![image](https://user-images.githubusercontent.com/88251894/188323129-8f9d7053-0f4a-43d7-b51e-c577c9fe10ca.png)
