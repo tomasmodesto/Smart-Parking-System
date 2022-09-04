@@ -10,3 +10,10 @@
 - Detailed description of the output system
   - The output system is exactly the same as the input system, but with two differences. The first is about now moving on the right lane and the second corresponds to     the changes in the variables. That is, when the ultrasonic distance sensor 1 finds an object at a distance greater than 9.35 cm and less than the road limit,             automatically one unit will be removed from optional operations and one unit will be added to the free variable.
   The car park is optimized for unexpected cases, such as when the car park is empty but instantly a car was able to enter the car park without going through the gate.     If that same car tries to leave through the gate, it will not open as it is an “intruder”.
+  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ - Eletronics
+    - 
+  
+
