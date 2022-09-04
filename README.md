@@ -14,6 +14,14 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  - Eletronics
-    - 
+    - Arduino Uno R3
+    - Ultrasonic Distance Sensor
+    - LCD 16x2 1602 I2C IIC
+    - Micro Servo Motor 9G SG90
+    - Red LED
+    - 100 ohm resistor
+    - Jumper Wires male to male
+    - Jumper Wires male to female
+    
   
 
