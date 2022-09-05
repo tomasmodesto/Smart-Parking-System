@@ -1,6 +1,10 @@
 # Smart-Parking-System
-
 ![thumbnail parking system](https://user-images.githubusercontent.com/88251894/188499807-2cc41f4e-c963-4962-beab-495eb39aaa43.png)
+
+
+
+
+
 
 - Summary
   - In this project, I present the idea of a car park, which consists of counting and presenting the number of available and occupied spaces as a form of information           adjacent to users.
