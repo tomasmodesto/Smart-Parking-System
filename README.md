@@ -39,6 +39,13 @@
     
 Code: https://github.com/tomasmodesto/Smart-Parking-System/blob/7a939ef6394e683f99f76884df3b1f6f52221e29/main.cpp
 
+Video: https://www.youtube.com/watch?v=NF7uqJCsP5A
+
+
+
+
+
+
 
 
   
